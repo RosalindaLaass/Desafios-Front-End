@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+body {
+    background-color: #745800;
+}
+
+.div_um {
+    background-color: #FFFFFF;
+    margin: 14% 60%;
+    width: 445px;
+    border-radius: 10px; 
+    font-family: "Inter", sans-serif;
+    text-align: justify;
+}
+
+.botao {
+    background-color: #FFFFFF;
+    width: 131px;
+    height: 31px;
+    border-radius: 10px;
+    border-color: #D9A500;
+    align-items: center;
+}
